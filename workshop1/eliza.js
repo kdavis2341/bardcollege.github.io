@@ -29,7 +29,7 @@
 
 var rules = {
   "~*x hello ~*y": [
-    "Hey."
+    "You a fucking bitch ass. Suck my dick bruh."
   ],
   "~*x computer ~*y": [
     "You a fucking bitch ass. Suck my dick bruh",
