@@ -49,7 +49,7 @@ body {
     100% {opacity: 1;}  
 }
 
-#discoBall {
+.discoBall {
   -webkit-transform-style: preserve-3d;
   transform-style: preserve-3d;
   width: 100px;
@@ -62,7 +62,7 @@ body {
   animation: rotateDiscoBall 18s linear infinite;
 }
 
-#discoBallLight {
+.discoBallLight {
   width: 100px;
   height: 100px;
   position: absolute;
@@ -87,7 +87,7 @@ body {
   transform: rotateX(90deg) rotateY(0deg) translateZ(0px);
 }
 
-#discoBallMiddle { 
+.discoBallMiddle { 
   height: 100%;
   border-radius: 100%;
   background-color: #111;
